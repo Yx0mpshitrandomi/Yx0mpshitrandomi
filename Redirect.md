@@ -1,0 +1,1 @@
+itms-services://?action=download-manifest&url=https://sites.google.com/view/scriptworlds/download/sign/20230519225404807/01bd9554-de9d-be54-28af-ca30d076836e/app.plistitms-services://?action=download-manifest&url=https://sites.google.com/view/scriptworlds/download/sign/20230519225404807/01bd9554-de9d-be54-28af-ca30d076836e/app.plist
